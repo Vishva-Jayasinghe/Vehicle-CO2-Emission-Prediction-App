@@ -6,6 +6,11 @@ This project focuses on predicting **vehicle CO2 emissions** using machine learn
 
 The final product is an interactive **Streamlit web application** where users can input vehicle details and get emission predictions in real-time.
 
+-- 
+
+![ss](https://github.com/user-attachments/assets/1dab57d6-f1a7-42eb-bc84-02acf669ec84)
+
+
 ---
 
 ## 🎯 Objectives
